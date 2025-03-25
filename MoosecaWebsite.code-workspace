@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "MoosecaWebsite",
+			"path": "."
+		},
+		{
+			"name": "static",
+			"path": "../../../../../static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MoosecaWebsite"
+	}
+}

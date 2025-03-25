@@ -1,8 +1,12 @@
 .sectionRosa {
     background-color: #f65d99;
-    height: 800px;
+    /* height: 800px; */
 }
 
 .blu {
    color: #1b5ffa; 
+}
+
+.justify-self-end {
+    justify-self: end;
 }
