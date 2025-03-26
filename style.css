@@ -10,3 +10,17 @@
 .justify-self-end {
     justify-self: end;
 }
+
+.noBg{
+    background-color: #f65d99;
+    border: none;
+}
+
+.altezzaCustom {
+    height: 550px;
+
+    a {
+        justify-self: end;
+    }
+}
+
