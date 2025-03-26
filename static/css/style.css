@@ -1,0 +1,104 @@
+.sectionRosa {
+    background-color: #f65d99;
+    /* height: 800px; */
+}
+
+.blu {
+   color: #1b5ffa; 
+}
+
+.justify-self-end {
+    justify-self: end;
+}
+
+.noBg{
+    background-color: #f65d99;
+    border: none;
+}
+
+.altezzaCustom {
+    height: 550px;
+
+    a {
+        justify-self: end;
+    }
+}
+
+body {
+    font-family: "League Spartan";
+}
+
+.pippo {
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+#logo1 {
+    width: 150px;
+    height: auto;
+}
+
+#logo2 {
+    width: 200px;
+    height: auto;
+}
+
+#loghi {
+    width: 150px;
+    height: auto;
+}
+
+.imma {
+    width: 250px;
+    height: auto;
+    border: 2px #f65d99 solid;
+}
+
+#invia {
+    width: 250px;
+    height: auto;
+}
+
+.sponsor {
+    width: 500px;
+    height: auto;
+}
+
+.titolo {
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 0;
+    /* Rimuove il margine inferiore */
+    display: block;
+    line-height: 1;
+}
+
+.titolo2 {
+    font-size: 150px;
+    margin-bottom: 0;
+    display: block;
+    line-height: 1
+}
+
+.idolo {
+    font-size: 80px;
+    margin-top: -5px;
+}
+
+.fuxia {
+    color: #f65d99;
+}
+
+.bgfuxia {
+    background-color: #f65d99;
+}
+
+.blu {
+    color: #1b5ffa;
+}
+
+.bluacqua {
+    color: #58e0f3;
+}
+
