@@ -4,14 +4,14 @@
 }
 
 .blu {
-   color: #1b5ffa; 
+    color: #1b5ffa;
 }
 
 .justify-self-end {
     justify-self: end;
 }
 
-.noBg{
+.noBg {
     background-color: #f65d99;
     border: none;
 }
@@ -106,3 +106,12 @@ a{
     text-decoration: none;
 }
 
+.bottoneBlu {
+    width: 200px;
+    transition: 0.2s;
+}
+
+.bottoneBlu:hover {
+    filter: drop-shadow(2px 4px 6px black);
+    cursor: pointer;
+}
