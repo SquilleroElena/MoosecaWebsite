@@ -115,3 +115,7 @@ a{
     filter: drop-shadow(2px 4px 6px black);
     cursor: pointer;
 }
+
+#arrow{
+    width: 50px;
+}
